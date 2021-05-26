@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Rümeysa
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-ile.
 
 - 🔭 I’m currently working on hrms project 
 - 🌱 I’m currently learning Java and C# 
