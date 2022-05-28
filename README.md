@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Rümeysa
 
 
-- 🔭 I’m currently working on hrms project 
-- 🌱 I’m currently learning Java and C# 
+- 🔭 I’m currently working on Oyun ve Uygulama Akademisi Bootcamp Project
+- 🌱 I’m currently learning Flutter
 
 
 
