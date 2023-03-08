@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Rümeysa
 
 
-- 🔭 I’m currently working on Oyun ve Uygulama Akademisi Bootcamp Project
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on React and Flutter projects
+- 🌱 I’m currently learning C++, Artificial Intelligence
 
 
 
