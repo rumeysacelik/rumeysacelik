@@ -51,7 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rumeysacelik/rumeysacelik/output/snake.svg" alt="Snake animation" />
 
 ###
 
