@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumeysacelik" alt="rumeysacelik" /></a> </p>
 
+
+- 👩‍💻 So far **I have worked on Backend (Java Spring Boot) and Flutter and improved myself.**
 - 🌱 I’m currently learning **AI, ML development**
 
 <h3 align="left">Connect with me:</h3>
