@@ -25,8 +25,8 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><a href="https://github.com/rumeysacelik/ai-project-1" target="_blank">AI Project 1</a>: Description of the project.</li>
-  <li><a href="https://github.com/rumeysacelik/ai-project-2" target="_blank">AI Project 2</a>: Description of the project.</li>
+  <li><a href="https://github.com/rumeysacelik/NLPProject" target="_blank">AI Project 1</a>: Description of the project.</li>
+  <li><a href="https://github.com/rumeysacelik/neural_network_interface" target="_blank">AI Project 2</a>: Description of the project.</li>
 </ul>
 
 
