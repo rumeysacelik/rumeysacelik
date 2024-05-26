@@ -29,11 +29,7 @@
   <li><a href="https://github.com/rumeysacelik/ai-project-2" target="_blank">AI Project 2</a>: Description of the project.</li>
 </ul>
 
-<h3 align="left">Blog Posts:</h3>
-<ul>
-  <li><a href="https://medium.com/@rumeysacelik/ai-blog-post-1" target="_blank">Understanding Neural Networks</a></li>
-  <li><a href="https://medium.com/@rumeysacelik/ai-blog-post-2" target="_blank">Getting Started with Machine Learning</a></li>
-</ul>
+
 
 <h3 align="left">Certifications:</h3>
 <ul>
