@@ -41,12 +41,6 @@
   <li>Machine Learning - Stanford University</li>
 </ul>
 
-<h3 align="left">Events:</h3>
-<ul>
-  <li>AI Conference 2023</li>
-  <li>Machine Learning Hackathon 2022</li>
-</ul>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
