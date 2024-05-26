@@ -26,7 +26,7 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li><a href="https://github.com/rumeysacelik/NLPProject" target="_blank">NLP Project</a>: Empowering Disadvantaged Through NLP - Supported by Tübitak</li>
-  <li><a href="https://github.com/rumeysacelik/neural_network_interface" target="_blank">Artificial Neural Network Interface/a>: Artificial Neural Network Simulation and Python Code Editor</li>
+  <li><a href="https://github.com/rumeysacelik/neural_network_interface" target="_blank">Artificial Neural Network Interface</a>: Artificial Neural Network Simulation and Python Code Editor</li>
 </ul>
 
 
