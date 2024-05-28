@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 👩‍💻 I have worked on **Fullstack development (Java Spring Boot & React) **.
+- 👩‍💻 I have worked on **Fullstack development (Java Spring Boot & React)**.
 - 🌱 I’m currently learning **AI and ML development**.
 
 <h3 align="left">Connect with me:</h3>
