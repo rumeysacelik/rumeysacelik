@@ -39,12 +39,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png" alt="spark" width="40" height="40"/>
   </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+ 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -72,9 +76,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+ 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -84,10 +86,5 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/apache/spark/master/docs/img/spark-logo-hd.png" alt="spark" width="40" height="40"/>
-  </a>
+  
 </p>
